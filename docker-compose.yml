@@ -14,6 +14,7 @@ wordpress:
     - ./data:/data
     - ./wp-content/uploads:/app/wp-content/uploads
     - ./wp-content/plugins:/app/wp-content/plugins
+    - ./wp-content/themes/default:/app/wp-content/themes/default
   volumes_from:
     - data
   environment:
