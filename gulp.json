@@ -1,0 +1,11 @@
+{
+  "theme": "plan2-default",
+  "productionAssetURL": "",
+  "aws": {
+    "params": {
+      "Bucket": ""
+    },
+    "accessKeyId": "",
+    "secretAccessKey": ""
+  }
+}

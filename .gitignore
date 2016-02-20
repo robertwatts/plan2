@@ -17,3 +17,5 @@ Thumbs.db
 # Wordpress
 wp-content/*
 !wp-content/themes/
+
+wp-content/themes/default/dist
